@@ -1,5 +1,6 @@
 # miniProject
 this project on php framework codeigniter 
+and in this project i focus on backend not frontend
 
 
 # notes for project
